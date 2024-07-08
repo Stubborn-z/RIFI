@@ -35,7 +35,7 @@ If this work is useful in your research, please cite our paper.
   title={Medical Entity Disambiguation with Medical Mention Relation and Fine-grained Entity Knowledge},
   author={Lu, Wenpeng and Zhang, Guobiao and Guan, Hongjiao and Peng, Xueping and Wang, Shoujin},
   booktitle={},
-  pages={},
+  pages={11148–11158},
   year={2024}
 }
 ```
