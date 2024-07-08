@@ -34,7 +34,7 @@ If this work is useful in your research, please cite our paper.
 @inproceedings{zhang2022word,
   title={Medical Entity Disambiguation with Medical Mention Relation and Fine-grained Entity Knowledge},
   author={Lu, Wenpeng and Zhang, Guobiao and Guan, Hongjiao and Peng, Xueping and Wang, Shoujin},
-  booktitle={},
+  booktitle={Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)},
   pages={11148–11158},
   year={2024}
 }
